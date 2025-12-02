@@ -12,6 +12,7 @@ Some programmer who's using these languages and tools:
   + Oracle
 * PL/SQL
 * PL/SQL Developer
+* Delphi
 * Git
 * Blender 3D
 * Android Studio using Java
