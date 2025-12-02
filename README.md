@@ -19,9 +19,7 @@ Some programmer who's using these languages and tools:
 * Android Studio using Java
 
 ## :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BDoXHoBeHuE18&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDoXHoBeHuE18&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BDoXHoBeHuE18&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BDoXHoBeHuE18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
