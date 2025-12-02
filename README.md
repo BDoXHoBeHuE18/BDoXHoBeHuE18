@@ -18,8 +18,8 @@ Some programmer who's using these languages and tools:
 * Blender 3D
 * Android Studio using Java
 
-## :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BDoXHoBeHuE18&theme=dark)](https://git.io/streak-stats)
+<!--## :fire: My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BDoXHoBeHuE18&theme=dark)](https://git.io/streak-stats)-->
 
 ## LeetCode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/BDoXHoBeHuE?ext=activity)
