@@ -1,6 +1,20 @@
-# Hello there! 👋
+## Hello there! 👋
 
-## My Stats:
+## Personal Description:
+Some programmer who's using these languages and tools:
+* C/C++/C#
+* Java
+* JavaScript
+* Python
+* SQL
+  + MicroSoft SQL SERVER
+  + SQLite
+  + Oracle
+* Git
+* Blender 3D
+* Android Studio using Java
+
+## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BDoXHoBeHuE18&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=BDoXHoBeHuE18&style=flat-square&color=blue" alt=""/>
