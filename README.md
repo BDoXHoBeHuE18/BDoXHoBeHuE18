@@ -13,6 +13,7 @@ Some programmer who's using these languages and tools:
 * PL/SQL
 * PL/SQL Developer
 * Delphi
+* .Net Windows Forms
 * Git
 * Blender 3D
 * Android Studio using Java
