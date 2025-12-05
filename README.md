@@ -10,8 +10,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BDoXHoBeHuE18&theme=dark)](https://git.io/streak-stats)
 
 ##
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BDoXHoBeHuE18)](https://github.com/anuraghazra/github-readme-stats)
+
+##
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=25&duration=5000&pause=100&color=00FFEF&multiline=true&repeat=false&width=435&lines=My+LeetCode+Stats:)](https://git.io/typing-svg)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/BDoXHoBeHuE?ext=activity)
 
 ##
 <img src="https://komarev.com/ghpvc/?username=BDoXHoBeHuE18&style=flat-square&color=blue" alt=""/>
+
